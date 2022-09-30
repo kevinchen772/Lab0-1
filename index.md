@@ -35,7 +35,7 @@ My favorite quote:
 
 **Be Aware**
 - Use `git clone` to clone all the source code to your local machine
-- Be sure to read the ***README File***
+- Be sure to read the [***README File***](https://github.com/kevinchen772/Lab0-1/blob/step2/README.md)
 - This site was built using [Github flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 Here is a quick way to go back to [Xiaoyu Chen's Profile](#xiaoyu-chens-profile)
