@@ -13,10 +13,10 @@
 - [x] CSE 30
 - [x] CSE 100
 - [x] CSE 105
-- [] CSE 101
-- [] CSE 110
-- [] CSE 158R
-- [] CSE 167
+- [ ] CSE 101
+- [ ] CSE 110
+- [ ] CSE 158R
+- [ ] CSE 167
 
 ### About Me
 1. I am a CS major student at UCSD
