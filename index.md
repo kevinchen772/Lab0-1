@@ -10,10 +10,10 @@
 ### Pictures
 When I was 3 years old\
 <img src="IMG_2608.jpeg" alt="my pic" width="200"/>\
-Me and My Girl
-![Me and My Girl](IMG_3479.jpeg)
-Favorite dog
-![My favorite type of dog](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?cs=srgb&dl=pexels-chevanon-photography-1108099.jpg&fm=jpg)
+Me and My Girl\
+<img src="IMG_3479.jpeg" alt="me and girl" width="200"/>\
+Favorite dog\
+<img src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?cs=srgb&dl=pexels-chevanon-photography-1108099.jpg&fm=jpgdrawing.jpg" alt="dog" width="200"/>
 **Be Aware**
 - Use `git clone` to clone all the source code to your local machine
 - Be sure to read the ***README File***
