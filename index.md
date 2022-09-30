@@ -8,8 +8,8 @@
 3. Graduated from Fishburne Military School
 
 ### Pictures
-When I was 3 years old
-<img src="IMG_2608.jpeg" alt="my pic" width="200"/>
+When I was 3 years old\
+<img src="IMG_2608.jpeg" alt="my pic" width="200"/>\
 Me and My Girl
 ![Me and My Girl](IMG_3479.jpeg)
 Favorite dog
