@@ -21,7 +21,7 @@
 ### About Me
 1. I am a CS major student at UCSD
 2. Love bodybuilding, java programming, basketball
-3. Graduated from Fishburne Military School
+3. Graduated from Fishburne Military School\
 My favorite quote:
 >Any fool can write code that a computer can understand. Good programmers write code that humans can understand. 
 
