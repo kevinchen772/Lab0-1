@@ -26,11 +26,11 @@ My favorite quote:
 >Any fool can write code that a computer can understand. Good programmers write code that humans can understand. 
 
 ### Pictures
-When I was 3 years old
+**When I was 3 years old**
 ![Myself](IMG_2608.jpeg)
-Me and My Girl
+**Me and My Girl**
 ![girlfriend](IMG_3479.jpeg)
-Favorite dog
+**Favorite dog**
 ![external link](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?cs=srgb&dl=pexels-chevanon-photography-1108099.jpg&fm=jpgdrawing.jpg)
 
 **Be Aware**
